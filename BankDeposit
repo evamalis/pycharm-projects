@@ -1,0 +1,6 @@
+money=input("Input the amount of deposit:")
+per_cent={'TKB': 5.6, 'CKB': 5.9, 'VTB': 4.28, 'SBER': 4.0}
+revenue=[5.6*float(money)/100, 5.9*float(money)/100, 4.28*float(money)/100, 4.0*float(money)/100]
+print("Annual revenue in each bank:",revenue)
+i=max(revenue)
+print("Maximum amount you can earn-",i)
