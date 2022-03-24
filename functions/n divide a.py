@@ -3,4 +3,4 @@ def n_divide_a(n,a):
         print("n divides to a")
     else:
         print("n does no divide to a")
-n_divide_a(10,5)
+print(n_divide_a(10,5))
