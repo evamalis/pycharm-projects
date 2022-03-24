@@ -6,7 +6,7 @@
     </content>
     <content url="file://$MODULE_DIR$/../pythonProject3" />
     <content url="file://$MODULE_DIR$/../pythonProject4" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.10" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

@@ -13,6 +13,6 @@ print("Total amount before discount:", price)
 if tickets>=3:
     price=int(price*0.9)
     print("You save 10%")
-print("Total amount after discount:", price)
+print("Final amount:", price)
 
 
