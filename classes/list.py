@@ -103,3 +103,4 @@ def __len__(self):
         pointer = pointer.next
     return count
 
+print(__len__(LL))
